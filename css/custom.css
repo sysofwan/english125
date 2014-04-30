@@ -1,0 +1,51 @@
+h4 {
+	font-size: 1.3em;
+}
+.callout {
+	display: table;
+	width: 100%;
+	background: #91A8A7; 
+	margin-bottom: 2em;
+	padding: 10px;
+}
+
+.quote {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.download {
+	background-color: white;
+	width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+}
+
+.quote div {
+	color: white;
+}
+
+#nav a.subsec {
+	background: rgba(0,0,0,0.15);
+	box-shadow: inset 0 0 0.25em 0 rgba(0,0,0,0.125);
+	color: #fff;
+	font-size: 0.8em;
+	padding-top: 0.1em;
+	padding-bottom: 0.1em;
+}
+
+#nav li ul.scroll-child {
+	display: none;
+	margin-bottom: 0;
+}
+
+#nav a.subsec.active {
+	color: #E27689;
+}
+
+#nav .subsec span {
+	padding-right: 1em;
+}
