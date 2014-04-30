@@ -49,3 +49,7 @@ h4 {
 #nav .subsec span {
 	padding-right: 1em;
 }
+
+section > div a.image.featured {
+	margin-top: 0.3em;
+}
